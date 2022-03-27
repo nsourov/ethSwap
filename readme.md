@@ -5,7 +5,7 @@ Swap Ethereum with DAPP Token or buy DAPP token to get Ether!
 ## Description
 
 This project is for just for learning how to create a simple DAPP application. It has a Token implemented based on Ethereum ERC-20 standard which can be bought using ethereum or can be sold to get ethereum.
-[screenshot]: https://raw.githubusercontent.com/nsourov/ethSwap/main/screenshot.jpg "screenshot"
+<img src="screenshot.jpg" alt="a" width="400" style="display: block; margin: 0 auto"/>
 
 ## Getting Started
 
